@@ -310,3 +310,6 @@ int main()
 
     return 0;
 }
+
+/* Viel mit Chatgpt und Google zusammengekleistert
+*/
